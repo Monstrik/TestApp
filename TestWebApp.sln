@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebApp", "TestWebApp\TestWebApp.csproj", "{EAA879B3-E8F2-432A-92D2-C6CBE2B7FDCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VS2012MVC4", "VS2012MVC4\VS2012MVC4.csproj", "{06D936A1-174E-4E0C-A0B4-99F96C4CA210}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{EAA879B3-E8F2-432A-92D2-C6CBE2B7FDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAA879B3-E8F2-432A-92D2-C6CBE2B7FDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAA879B3-E8F2-432A-92D2-C6CBE2B7FDCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06D936A1-174E-4E0C-A0B4-99F96C4CA210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D936A1-174E-4E0C-A0B4-99F96C4CA210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D936A1-174E-4E0C-A0B4-99F96C4CA210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D936A1-174E-4E0C-A0B4-99F96C4CA210}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
