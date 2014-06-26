@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestWebApp", "TestWebApp\TestWebApp.csproj", "{EAA879B3-E8F2-432A-92D2-C6CBE2B7FDCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAA879B3-E8F2-432A-92D2-C6CBE2B7FDCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA879B3-E8F2-432A-92D2-C6CBE2B7FDCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA879B3-E8F2-432A-92D2-C6CBE2B7FDCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA879B3-E8F2-432A-92D2-C6CBE2B7FDCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
